@@ -1,0 +1,10 @@
+path: /root/yolov12/datas # 注意修改自己NEU-DET数据集的路径
+train: /root/yolov12/datas/train/images  # train images
+val: /root/yolov12/datas/val/images  # val images
+test: /root/yolov12/datas/test  # test images
+
+# Classes
+
+names:
+  0: Hyperplastic Polyps
+  1: Adenomatous Polyp
